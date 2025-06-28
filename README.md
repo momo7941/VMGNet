@@ -2,7 +2,7 @@
 # The video for the real-world robotic grasping experiments is available at https://youtu.be/S-QHBtbmLc4.
 ### The environment setup and user guide are coming soon.
 ### Pre-trained models can be downloaded at：https://pan.baidu.com/s/1oYZEFiYA0mllFEBfxSy7bQ password: t1fp 
-### Table: Key Implementation Details
+### Key Implementation Details
 
 | Item                    | Description                        |
 |-------------------------|------------------------------------|
